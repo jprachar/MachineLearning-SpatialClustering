@@ -1,0 +1,81 @@
+(I) GRADING RUBRIC
+
+The total score for project is 30%.
+
+Here is the break down for the project report grading.
+
+1. Choice of data mining task and/or questions investigated (6%)
+ 
+2. Methodology to solve the data mining task and/or questions (8%)
+ 
+3. Evaluation of the methodology for the task and/or to answer the identified questions (8%)
+ 
+4. Quality of the written report. This includes figures and illustration of the various concepts/algorithms and also the experimental results. (8%)
+
+
+(II) COURSE PROJECT REPORT WRITING GUIDELINES
+
+
+Here are the guidelines for your report as promised. The project report should be written to address the grading criteria I shared with you earlier. (Ideally, you may want to write a project report that you can share with your recruiter when you apply for internships and full-time jobs at companies including Google, Microsoft, Amazon, Facebook etc. to improve your chances of getting hired)
+
+The report will have roughly 7 sections. I will share some good examples from last year students soon.
+
+1. Introduction
+
+- Motivation from real-world applications for the data mining task you have chosen.
+
+- Give some examples of data mining questions you set out to investigate in this project.
+
+- State personal motivation to select this particular project and what were your goals. 
+
+- Briefly describe the challenges and your approach to this task
+
+- Briefly summarize your results.
+
+2. Data Mining Task
+
+- Clearly describe all the details of the task. What is the input data? What is the output of data mining approach? Give examples to illustrate them.
+
+- List all the data mining questions that you set out to investigate in this project.
+
+- List the key challenges to solve this task
+
+3. Technical Approach
+
+- Describe all the details of your algorithmic approach to solve this data mining task and/or answering the data mining questions.
+
+- How are you addressing the challenges mentioned above
+
+- An algorithmic pseudo-code and/or a figure (block diagram) to illustrate the approach will be good.
+
+4. Evaluation Methodology
+
+- Explain the dataset and its source that you employed to study this task. Any specific challenges to use this data for your task.
+
+- List the metrics you employed to evaluate the output of data mining task and/or questions investigated. Justify their choice from real-world applications perspective.
+ 
+5. Results and Discussion
+
+- Present and explain results in a step-by-step manner to tell us a story about what you have discovered by doing this project (all graphs and tables should be properly labeled with legends and captions. they should be self-sufficient to understand the results)
+
+- What worked and why?
+
+- What didn't work and why not?
+
+6. Lessons Learned
+
+- What did you learn by doing this project? In the hindsight, would you have made some different decisions to improve the project further? 
+
+7. Acknowledgements
+
+- Acknowledge all the sources of help you got to do this project
+
+(III) SUBMISSION GUIDELINES
+
+The report is due on May 7th midnight. (I need time to grade and the final grades are due to Registrar by May 12. So I can't give you more time than this.)
+
+Please submit the PDF and code in a single zip file on Blackboard
+
+Format of the name: <LastName>-<WSUID>.zip
+
+For example: Fern-11342509.zip
